@@ -1,1 +1,0 @@
-tagSearchIndex = [{"l":"Constant Field Values","h":"","u":"constant-values.html"},{"l":"Protocol flow","h":"class edu.yu.cs.com3810.coordinator.LeaderElectionRunner","d":"Section","u":"edu/yu/cs/com3810/coordinator/LeaderElectionRunner.html#protocol-flow-heading"}];updateSearchResults();
